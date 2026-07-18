@@ -1,0 +1,27 @@
+id,team_1,team_2,date,result,won,margin,score_1,score_2
+1,glenstal_united,cork_indians,2026-05-16 10:00:00+00,TRUE,glenstal_united,11 Runs,102/10,91/8
+2,cork_indians,glenstal_united,2026-05-16 15:00:00+00,TRUE,cork_indians,7 Wickets,128/3,123/8
+3,murroe_united,royal_strikers,2026-05-17 10:00:00+00,TRUE,murroe_united,6 Wickets,113/4,112/10
+4,castletroy_cavaliers,newcastle_west,2026-05-17 15:00:00+00,TRUE,castletroy_cavaliers,7 Wickets,111/3,108/7
+5,castletroy_cavaliers,cork_indians,2026-06-01 10:00:00+00,TRUE,cork_indians,78 Runs,29/10,107/10
+6,cork_indians,castletroy_cavaliers,2026-06-01 15:00:00+00,TRUE,cork_indians,4 Wickets,68/6,67/10
+7,murroe_united,glenstal_united,2026-06-04 10:00:00+00,TRUE,glenstal_united,127 Runs,49/10,176/5
+8,royal_strikers,glenstal_united,2026-06-06 10:00:00+00,TRUE,royal_strikers,9 Runs,153/8,144/10
+9,castletroy_cavaliers,royal_strikers,2026-06-06 15:00:00+00,TRUE,castletroy_cavaliers,5 Wickets,174/5,173/10
+10,newcastle_west,murroe_united,2026-06-14 10:00:00+00,TRUE,newcastle_west,14 Runs,140/10,126/8
+11,murroe_united,newcastle_west,2026-06-07 10:00:00+00,TRUE,murroe_united,59 Runs,181/9,122/10
+12,castletroy_cavaliers,glenstal_united,2026-06-14 15:00:00+00,TRUE,glenstal_united,54 Runs,142/10,196/7
+13,glenstal_united,murroe_united,2026-06-17 10:00:00+10,TRUE,murroe_united,5 Wickets,82/10,83/5
+14,royal_strikers,castletroy_cavaliers,2026-06-20 10:00:00+00,TRUE,castletroy_cavaliers,4 Wickets,74/6,73/10
+15,glenstal_united,newcastle_west,2026-06-20 15:00:00+00,TRUE,glenstal_united,12 Runs,176/8,164/4
+16,murroe_united,cork_indians,2026-06-21 15:00:00+00,TRUE,murroe_united,5 Wickets,80/5,79/10
+17,cork_indians,murroe_united,2026-06-21 10:00:00+00,TRUE,cork_indians,4 Wickets,98/6,96/10
+18,glenstal_united,castletroy_cavaliers,2026-06-26 10:00:00+00,TRUE,glenstal_united,94 Runs,184/3,94/10
+19,cork_indians,newcastle_west,2026-06-28 10:00:00+00,TRUE,cork_indians,7 Wickets,112/3,111/10
+20,newcastle_west,cork_indians,2026-06-28 15:00:00+00,TRUE,cork_indians,6 Runs,149/10,155/9
+21,royal_strikers,newcastle_west,2026-07-04 10:00:00+00,TRUE,royal_strikers,51 Runs,133/10,82/9
+22,newcastle_west,royal_strikers,2026-07-04 15:00:00+00,TRUE,newcastle_west,3 Wickets,130/7,129/10
+23,murroe_united,castletroy_cavaliers,2026-07-05 10:00:00+00,TRUE,murroe_united,28 Runs,140/7,112/10
+24,castletroy_cavaliers,murroe_united,2026-07-05 15:00:00+00,TRUE,castletroy_cavaliers,2 Wickets,152/8,151/9
+25,cork_indians,royal_strikers,2026-07-11 10:00:00+00,TRUE,cork_indians,133 Runs,193/7,60/10
+26,royal_strikers,cork_indians,2026-07-11 15:00:00+00,TRUE,cork_indians,6 Wickets,42/10,44/4
